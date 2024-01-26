@@ -12,4 +12,7 @@ Soln:
 link to the solution:
 https://github.com/mudassar-tamboli/ESP32-OV7670-WebSocket-Camera/issues/13
 
+Other useful solution resources:
 
+https://forum.arduino.cc/t/esp32-ov7670-arduinoide-how-to-capture-frame/551215
+https://github.com/tekker/esp32-ov7670-hacking/tree/feature/rgb_bitmap
